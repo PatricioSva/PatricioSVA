@@ -73,8 +73,8 @@ Atualmente faço parte do projeto de **Análise de Dados** na empresa **Fábrica
 
 ## 📫 Contato & Redes Sociais
 [![GitHub](https://img.shields.io/badge/GitHub-@PatricioSva-181717?style=for-the-badge&logo=github)](https://github.com/PatricioSva)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/patricio-da-silva-9b6369382/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvY5q2vKdQQmcxdAwahKzog%3D%3D-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![Email](https://img.shields.io/badge/Email-patricio.edu.universidade@gmail.com✉️-D14836?style=for-the-badge&logo=gmail)](mailto:patricio.edu.universidade@gmail.com)
 
 ---
 
