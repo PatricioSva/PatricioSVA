@@ -1,16 +1,15 @@
-
-
-
 <div align="center">
 
-# Olá, eu sou o Patrício! 👋
+## 👋 Oi, eu sou o Patrício!
 
 **Alysson Henrique Patrício da Silva**  
-Ciência da Computação · Monitoria acadêmica · Dados & Cybersecurity
+`Ciência da Computação` · `Dados` · `Cybersecurity` · `Matemática`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3100&amp;pause=1300&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Python+%7C+C+%7C+SQL+%7C+MySQL;Banco+de+Dados+%26+Engenharia+de+Dados;Redes+%26+Cybersecurity;Aprendendo+e+construindo+na+pr%C3%A1tica" alt="Python, C, SQL, MySQL, Banco de Dados, Engenharia de Dados, Redes e Cybersecurity" />
+<img src="./terminal-math.gif" width="720" alt="Terminal animado com código Python calculando a proporção áurea phi" />
 
-[LinkedIn](https://www.linkedin.com/in/alysson-henrique-patricio-da-silva-596657449) · [Meus repositórios](https://github.com/PatricioSva?tab=repositories)
+**Entender → programar → testar → compartilhar.**
+
+[LinkedIn](https://www.linkedin.com/in/alysson-henrique-patricio-da-silva-596657449) · [Projetos no GitHub](https://github.com/PatricioSva?tab=repositories)
 
 </div>
 
