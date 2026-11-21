@@ -3,15 +3,33 @@
 ## 👋 Oi, eu sou o Patrício!
 
 **Alysson Henrique Patrício da Silva**  
-`Ciência da Computação` · `Dados` · `Cybersecurity` · `Matemática`
+`Ciência da Computação` · `Matemática` · `Machine Learning` · `IA`
 
-<img src="./terminal-math.gif" width="720" alt="Terminal animado com código Python calculando a proporção áurea phi" />
+</div>
 
-**Entender → programar → testar → compartilhar.**
+```text
+patricio@github:~$ python3 gradiente.py
+
+  MODELO        ŷ = w · x
+  EXEMPLO       x = 1  |  y = 3  |  w = 0
+  PERDA         L(w) = (w - 3)²
+  GRADIENTE     dL/dw = 2(w - 3) = -6
+
+  taxa = 0.1    →    w: 0.0 → 0.6
+  perda: 9.00   →    5.76
+
+  um passo de cada vez: entender → testar → aprender
+```
+
+<div align="center">
+
+Estudante de **Ciência da Computação** e **monitor acadêmico**.  
+Estudando matemática, dados e IA, com foco em construir uma carreira em **Machine Learning**.
 
 [LinkedIn](https://www.linkedin.com/in/alysson-henrique-patricio-da-silva-596657449) · [Projetos no GitHub](https://github.com/PatricioSva?tab=repositories)
 
 </div>
+
 
 ---
 
