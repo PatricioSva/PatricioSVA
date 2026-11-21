@@ -16,7 +16,7 @@
 Estudante de **Ciência da Computação** e **monitor acadêmico**.  
 Estudando matemática, dados e IA, com foco em construir uma carreira em **Machine Learning**.
 
-[LinkedIn](https://www.linkedin.com/in/alysson-henrique-patricio-da-silva-596657449) · [Projetos no GitHub](https://github.com/PatricioSva?tab=repositories)
+[LinkedIn](https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449) · [Projetos no GitHub](https://github.com/PatricioSva?tab=repositories)
 
 </div>
 
