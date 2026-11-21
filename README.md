@@ -7,19 +7,9 @@
 
 </div>
 
-```text
-patricio@github:~$ python3 gradiente.py
-
-  MODELO        ŷ = w · x
-  EXEMPLO       x = 1  |  y = 3  |  w = 0
-  PERDA         L(w) = (w - 3)²
-  GRADIENTE     dL/dw = 2(w - 3) = -6
-
-  taxa = 0.1    →    w: 0.0 → 0.6
-  perda: 9.00   →    5.76
-
-  um passo de cada vez: entender → testar → aprender
-```
+<div align="center">
+  <img src="./gradiente-animado.gif" width="900" alt="Animação de gradiente descendente ajustando o peso e reduzindo a perda." />
+</div>
 
 <div align="center">
 
