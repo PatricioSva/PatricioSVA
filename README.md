@@ -43,28 +43,26 @@ Busco transformar o que estudo em projetos que eu consiga executar, testar, expl
 
 ## `03` · Projetos e prática
 
-### 📊 Workshop Dados 25.2
+Estudos e projetos acadêmicos que conectam programação, dados e matemática:
 
-Exercícios e estudos práticos envolvendo SQL, Python e análise de dados.
+- **[Regressão linear do zero](https://github.com/PatricioSva/regressao-linear-do-zero)** — experimento em Python com gradiente descendente, métricas e separação entre treino e teste, usando dados fictícios.
+- **[Loja Vetor · análise de vendas](https://github.com/PatricioSva/loja-vetor-analise-vendas)** — limpeza e análise de dados sintéticos de vendas, com tabelas e visualizações.
+- **[Locadora de veículos](https://github.com/PatricioSva/locadora-veiculos-python)** — projeto acadêmico em Python com SQLite, regras de locação e relatórios; inclui um experimento preditivo com dados sintéticos.
+- **[CampusFood](https://github.com/PatricioSva/CampusFood)** — protótipo acadêmico de interface em HTML e CSS, desenvolvido em equipe. [Ver demonstração](https://patriciosva.github.io/CampusFood/).
 
-- [Repositório do workshop](https://github.com/PatricioSva/Workshop-Dados-25.2)
-- [Desafio 1 · SQL](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%201(An%C3%A1lise%20De%20Dados).sql)
-- [Desafio 2 · Python/Jupyter](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%202(Gr%C3%A1ficos)-An%C3%A1lise%20De%20Dados.Ipynb)
+Alguns projetos contam com apoio de IA. Os repositórios registram o contexto, as limitações e os próximos passos de estudo.
 
-### 🚗 Locadora de Veículos · em desenvolvimento
+<details>
+<summary>Mais estudos e projetos acadêmicos</summary>
 
-Projeto integrador individual de **Introdução à Programação**, desenvolvido em **Python**. O escopo acadêmico inclui cadastros, locações, regras de negócio, seguro, descontos e relatórios. Planejo evoluí-lo com **SQL**, documentação técnica e, posteriormente, análise com **Google Colab** e **Power BI**.
-
-*O link do repositório será adicionado quando houver uma versão demonstrável.*
-
-### 🌐 Estudos de desenvolvimento web
-
-Exercícios e projetos acadêmicos com **HTML e CSS**, incluindo **Café Byte** e **CampusFood**. Os repositórios serão vinculados à medida que estiverem organizados e documentados.
-
-### 🧩 Outras iniciativas · em evolução
-
+- **[Workshop Dados 25.2](https://github.com/PatricioSva/Workshop-Dados-25.2)** — exercícios com SQL, Python e análise de dados. [Desafio de SQL](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%201(An%C3%A1lise%20De%20Dados).sql) · [Desafio em Python/Jupyter](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%202(Gr%C3%A1ficos)-An%C3%A1lise%20De%20Dados.Ipynb).
+- **[Oficina de Modelagem](https://github.com/PatricioSva/Oficina_Modelagem_0409)** — atividade acadêmica sobre modelagem de banco de dados.
+- **[Projeto CC P1 447](https://github.com/PatricioSva/projetotarde_CC_P1_447)** — arquivos de atividade acadêmica de Ciência da Computação.
+- **Café Byte:** exercício de desenvolvimento web com HTML e CSS.
 - **Zenth Gear:** estudo e desenvolvimento de site.
 - **Projeto 3D em parceria:** iniciativa empreendedora em construção.
+
+</details>
 
 ## `04` · Formação, ensino e certificação
 
