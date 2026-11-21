@@ -102,6 +102,6 @@ Piano, guitarra/violão, calistenia, tecnologia, aprendizado e empreendedorismo.
 
 **Aberto a oportunidades de estágio, colaboração e boas conversas sobre tecnologia.**
 
-📫 [Vamos nos conectar no LinkedIn](https://www.linkedin.com/in/alysson-henrique-patricio-da-silva-596657449)
+📫 [Vamos nos conectar no LinkedIn]https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449
 
 </div>
