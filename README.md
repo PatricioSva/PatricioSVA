@@ -1,105 +1,169 @@
-<div align="center">
-
-## 👋 Oi, eu sou o Patrício!
-
-**Alysson Henrique Patrício da Silva**  
-`Ciência da Computação` · `Matemática` · `Machine Learning` · `IA`
-
-</div>
-
-<div align="center">
-  <img src="./gradiente-animado.gif" width="900" alt="Animação de gradiente descendente ajustando o peso e reduzindo a perda." />
-</div>
 
 <div align="center">
 
-Estudante de **Ciência da Computação** e **monitor acadêmico**.  
-Estudando matemática, dados e IA, com foco em construir uma carreira em **Machine Learning**.
+# Alysson Henrique Patrício da Silva
 
-[LinkedIn](https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449) · [Projetos no GitHub](https://github.com/PatricioSva?tab=repositories)
+**Computer Science Student | Machine Learning & AI**
+
+`Python` · `Mathematics` · `Machine Learning` · `Data Science`
+
+<img src="./gradiente-animado.gif" width="900" alt="Gradient descent animation illustrating parameter optimization and loss reduction." />
+
+Understanding the mathematics behind intelligent systems.
+
+[LinkedIn](https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449) · [Repositories](https://github.com/PatricioSva?tab=repositories)
 
 </div>
-
 
 ---
 
-## `01` · Sobre mim
+## 01 · About Me
 
-Sou estudante de **Ciência da Computação na UNIESP**, em João Pessoa (PB), e atuo como **monitor acadêmico**. Minha trajetória também inclui experiência como professor no **Rota do Enem**.
+I am a Computer Science student at UNIESP, Brazil,
+and an academic teaching assistant with a strong interest
+in Machine Learning, Artificial Intelligence and mathematics.
 
-Tenho especial interesse em **Banco de Dados**, **Engenharia de Dados** e **Cybersecurity**. Gosto de entender como as coisas funcionam — e, principalmente, *por que* funcionam daquela maneira.
+My previous experience as a teacher shaped the way I approach
+technology: understanding a concept is important, but being
+able to explain why it works is equally valuable.
 
-Busco transformar o que estudo em projetos que eu consiga executar, testar, explicar e melhorar. Meu objetivo de longo prazo é construir uma carreira internacional em tecnologia.
+I am particularly interested in the mathematical foundations
+of machine learning, algorithm implementation, optimization
+and model evaluation.
 
-## `02` · Tecnologias e fundamentos
+My long-term goal is to build an international career
+in Machine Learning.
 
-**Programação:** `Python` · `C`  
-**Dados:** `SQL` · `MySQL` · fundamentos de bancos de dados relacionais  
-**Ferramentas:** `Git` · `GitHub` · `Linux` · `VS Code`  
-**Web:** `HTML` · `CSS` · estudos iniciais de `JavaScript`  
-**Fundamentos:** redes de computadores · arquitetura de computadores · lógica matemática · segurança da informação
+## 02 · Technical Skills
 
-> São tecnologias e conteúdos com os quais já tive contato prático ou acadêmico, em diferentes níveis. Continuo aprofundando minha experiência com cada um deles.
+**Machine Learning**
+- Supervised and unsupervised learning
+- Regression and classification
+- Gradient descent and optimization
+- Random Forest
+- Feature engineering
+- Model evaluation and baseline comparison
 
-## `03` · Projetos e prática
+**Programming and Data**
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- SQL
+- SQLite and MySQL
+- Matplotlib
 
-Estudos e projetos acadêmicos que conectam programação, dados e matemática:
+**Mathematical Foundations**
+- Mathematical logic
+- Linear algebra
+- Calculus
+- Probability and statistics
 
-- **[Regressão linear do zero](https://github.com/PatricioSva/regressao-linear-do-zero)** — experimento em Python com gradiente descendente, métricas e separação entre treino e teste, usando dados fictícios.
-- **[Loja Vetor · análise de vendas](https://github.com/PatricioSva/loja-vetor-analise-vendas)** — limpeza e análise de dados sintéticos de vendas, com tabelas e visualizações.
-- **[Locadora de veículos](https://github.com/PatricioSva/locadora-veiculos-python)** — projeto acadêmico em Python com SQLite, regras de locação e relatórios; inclui um experimento preditivo com dados sintéticos.
-- **[CampusFood](https://github.com/PatricioSva/CampusFood)** — protótipo acadêmico de interface em HTML e CSS, desenvolvido em equipe. [Ver demonstração](https://patriciosva.github.io/CampusFood/).
+**Development Tools**
+- Git and GitHub
+- Linux
+- Jupyter Notebook and Google Colab
+- Visual Studio Code
+- Streamlit
 
-Alguns projetos contam com apoio de IA. Os repositórios registram o contexto, as limitações e os próximos passos de estudo.
+These skills represent different stages of academic
+and practical development.
 
-<details>
-<summary>Mais estudos e projetos acadêmicos</summary>
+## 03 · Selected Projects
 
-- **[Workshop Dados 25.2](https://github.com/PatricioSva/Workshop-Dados-25.2)** — exercícios com SQL, Python e análise de dados. [Desafio de SQL](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%201(An%C3%A1lise%20De%20Dados).sql) · [Desafio em Python/Jupyter](https://github.com/PatricioSva/Workshop-Dados-25.2/blob/main/Desafio%202(Gr%C3%A1ficos)-An%C3%A1lise%20De%20Dados.Ipynb).
-- **[Oficina de Modelagem](https://github.com/PatricioSva/Oficina_Modelagem_0409)** — atividade acadêmica sobre modelagem de banco de dados.
-- **[Projeto CC P1 447](https://github.com/PatricioSva/projetotarde_CC_P1_447)** — arquivos de atividade acadêmica de Ciência da Computação.
-- **Café Byte:** exercício de desenvolvimento web com HTML e CSS.
-- **Zenth Gear:** estudo e desenvolvimento de site.
-- **Projeto 3D em parceria:** iniciativa empreendedora em construção.
+### Linear Regression from Scratch
 
-</details>
+Implementation of linear regression in Python,
+exploring gradient descent, loss functions,
+training and test separation, and model evaluation
+without relying on a prebuilt regression estimator.
 
-## `04` · Formação, ensino e certificação
+[View Repository](https://github.com/PatricioSva/linear-regression-from-scratch)
 
-- 🎓 **Ciência da Computação — UNIESP Centro Universitário** · graduação em andamento desde 2026.
-- 🤝 **Monitor acadêmico — UNIESP** · apoio em conteúdos de Introdução à Programação (Python), Lógica Matemática, Redes e Arquitetura de Computadores.
-- 📚 **Professor — Rota do Enem** · experiência anterior com planejamento de aulas, comunicação e ensino.
-- 🛡️ **Introduction to Cybersecurity — Cisco Networking Academy** · curso concluído em 2025.
-- 🐍 **Curso de Python — Cisco Networking Academy** · em andamento.
-- 📈 **Amazing Data & IA Lab** · formação em andamento.
+### Loja Vetor — Sales Analysis
 
-## `05` · O que estou aprofundando
+An end-to-end data analysis project using synthetic
+sales records, including data cleaning, financial
+indicators, automated validation and visualization.
 
-- Modelagem e consultas em **bancos de dados relacionais**.
-- Programação e automação com **Python**.
-- Fundamentos de **redes e segurança da informação**.
-- Organização de código, **Git** e documentação de projetos.
-- Integração futura de dados, SQL e ferramentas de análise em projetos reais.
+[View Repository](https://github.com/PatricioSva/loja-vetor-sales-analysis)
 
-### 🌍 Idiomas
+### Vehicle Rental Management System
 
-- 🇧🇷 **Português:** nativo.
-- 🇷🇺 **Russo:** boa desenvoltura em conversas simples e situações cotidianas.
-- 🇬🇧 **Inglês:** comunicação oral em nível semelhante ao russo, com desenvolvimento contínuo.
-- 🇩🇪 **Alemão:** conversação em evolução consistente, aproximando-se da desenvoltura em russo e inglês.
-- 🇨🇳 **Mandarim:** comunicação oral básica; aprofundando leitura e escrita em hanzi.
-- 🇸🇦 **Árabe:** conhecimentos fundamentais, com foco na construção da leitura, escrita e comunicação.
+An academic Python application integrating SQLite,
+business rules, PDF receipts, CSV exports, Pandas
+analytics, Streamlit and experimental demand forecasting
+using Random Forest.
 
-### 🎹 Interesses pessoais
+The forecasting experiment compares machine learning
+performance against a simple baseline using synthetic data.
 
-Piano, guitarra/violão, calistenia, tecnologia, aprendizado e empreendedorismo.
+[View Repository](https://github.com/PatricioSva/vehicle-rental-management-system)
+
+### CampusFood
+
+A collaborative academic frontend project developed
+with HTML5 and CSS3, featuring responsive navigation,
+digital menus and food categories.
+
+My contributions include project leadership,
+architecture and primary development.
+
+[View Repository](https://github.com/PatricioSva/CampusFood) |
+[Live Demo](https://patriciosva.github.io/CampusFood/)
+
+## 04 · Education and Teaching
+
+- **BSc in Computer Science — UNIESP**
+  Currently pursuing my undergraduate degree.
+
+- **Academic Teaching Assistant — UNIESP**
+  Supporting students in Python programming,
+  mathematical logic, computer architecture
+  and computer networks.
+
+- **Former Teacher — Rota do Enem**
+  Experience in educational planning,
+  teaching and communication.
+
+## 05 · Professional Development
+
+- Machine Learning Specialization —
+  DeepLearning.AI and Stanford Online, via Coursera.
+
+- Amazing Data & AI Lab —
+  Practical training in Python, data analysis and AI.
+
+- Introduction to Cybersecurity —
+  Cisco Networking Academy.
+
+## 06 · Current Focus
+
+- Implementing machine learning algorithms from scratch.
+- Strengthening mathematical foundations.
+- Developing reproducible experiments.
+- Building documented and tested ML projects.
+- Improving technical English and international communication.
+
+## 07 · Languages and Interests
+
+**Languages:** Portuguese (native), English and Mandarin
+(currently developing proficiency).
+
+**Personal interests:** Mathematics, technology,
+piano, guitar, calisthenics and entrepreneurship.
 
 ---
 
+Some projects were developed with AI assistance.
+Their repositories document the implementation,
+experimental limitations and learning objectives.
+
 <div align="center">
 
-**Aberto a oportunidades de estágio, colaboração e boas conversas sobre tecnologia.**
+**Open to internships, research opportunities,
+technical collaboration and continuous learning.**
 
-📫 [Vamos nos conectar no LinkedIn](https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449)
+[Connect with me on LinkedIn](https://br.linkedin.com/in/alysson-henrique-patr%C3%ADcio-da-silva-596657449)
 
 </div>
