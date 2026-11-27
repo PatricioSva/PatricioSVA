@@ -71,6 +71,21 @@ and practical development.
 
 ## 03 · Selected Projects
 
+
+### Customer Intelligence & Machine Learning Lab
+
+An end-to-end machine learning laboratory featuring
+customer churn prediction, K-Means segmentation,
+Isolation Forest anomaly detection, explainable AI,
+SQL analytics and an interactive Streamlit dashboard.
+
+Includes six classifiers, independent synthetic
+evaluation, 23 automated tests and successful
+continuous integration with GitHub Actions.
+
+[View Repository](https://github.com/PatricioSva/customer-intelligence-ml-lab)
+
+
 ### Linear Regression from Scratch
 
 Implementation of linear regression in Python,
